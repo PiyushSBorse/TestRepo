@@ -1,2 +1,2 @@
-Change 1	# Edit on Master Branch
+Change 1	# Edit on Both Branch
 Change 2
